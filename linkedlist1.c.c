@@ -29,6 +29,7 @@ int main()
 
 
 }
+//create function
 void create()
 {
 	int n,i;
@@ -52,7 +53,7 @@ void create()
 		}
 	}
  } 
- //view fun
+ //view function
  void view()
  {
  	struct node*t;
