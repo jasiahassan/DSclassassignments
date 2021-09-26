@@ -7,7 +7,7 @@ struct node
 {  
     char name[30];
     int age;
-	float marks;  
+    float marks;  
     struct node *next;   
 };
 struct node*head=NULL,*tail=NULL;
