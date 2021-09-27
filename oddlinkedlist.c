@@ -1,3 +1,4 @@
+//--------program for printing odd numbers in the list-------
 #include<stdio.h>
 #include<stdlib.h>
 void create();
