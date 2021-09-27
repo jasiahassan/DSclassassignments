@@ -1,4 +1,4 @@
-//----------program for printing prime numbers among the linked list--------------
+//----------program for printing prime numbers in the linked list--------------
 #include<stdio.h>
 #include<stdlib.h>
 void create();
