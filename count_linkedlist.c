@@ -1,3 +1,5 @@
+//program for showing frequency of a given node
+
 #include<stdio.h>
 #include<stdlib.h>
 void create();
